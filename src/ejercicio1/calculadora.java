@@ -16,7 +16,7 @@ public class calculadora {
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Bienvenido a la aplicacion de Calculadora Simple");
-		// Comentario realizado en la rama features
+		// Comentario realizado despues de la edicion de forma remota
 		// Comentario añadido de forma remota desde Github
 		System.out.print("Introduce el primer número: ");
 		double numero1 = scanner.nextDouble();      
